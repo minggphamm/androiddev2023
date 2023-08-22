@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
+* Name: Phạm Đỗ Ngọc Minh
+* ID: BI12-280
+* Group ID: 16
 
